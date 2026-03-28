@@ -2,17 +2,15 @@
 
   # Hi there, I'm Kopeika! 👋
   
-  **Python Developer | C++ Enthusiast | AI & ML Explorer**
+  **Python Developer | AI & ML Explorer**
 
-  I'm a developer based in **Tallinn, Estonia**, passionate about building intelligent systems, discord bots, and exploring low-level programming.
+  I'm a developer based in **Tallinn, Estonia**, passionate about building intelligent systems.
 
   ---
 
   ### 🛠️ Languages & Technologies
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   
   <br/>
   
